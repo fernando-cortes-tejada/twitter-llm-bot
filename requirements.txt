@@ -1,0 +1,10 @@
+requests==2.31.0
+bs4==0.0.1
+feedparser==6.0.10
+tweepy==4.14.0
+requests-oauthlib==1.3.1
+langchain==0.0.264
+unstructured==0.7.12
+openai==0.27.8
+google-api-python-client==2.97.0
+chromadb

@@ -1,3 +1,8 @@
+src/drive/credentials.json
+src/drive/token.json
+src/sheets/credentials.json
+src/sheets/token.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
