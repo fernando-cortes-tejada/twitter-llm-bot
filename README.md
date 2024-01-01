@@ -30,6 +30,6 @@ That should be it. Just cron the script and check the magic.
 
 Your Name - [@fernando-cortes-tejada](https://github.com/fernando-cortes-tejada) - fcortes@pucp.edu.pe
 
-Project Link: [https://github.com/fernando-cortes-tejada/safebets-airflow](https://github.com/fernando-cortes-tejada/safebets-airflow)
+Project Link: [https://github.com/fernando-cortes-tejada/twitter-llm-bot](https://github.com/fernando-cortes-tejada/twitter-llm-bot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
